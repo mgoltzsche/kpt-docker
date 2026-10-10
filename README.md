@@ -5,7 +5,7 @@ A kpt container with docker
 ## Build
 
 ```sh
-make build
+make image
 ```
 
 ## Release
