@@ -1,6 +1,6 @@
 # kpt-docker
 
-A kpt container with docker
+A kpt container with docker and yq
 
 ## Build
 
